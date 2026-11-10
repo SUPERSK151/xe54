@@ -1,0 +1,12 @@
+{
+  "name": "xe54-website",
+  "version": "1.0.0",
+  "description": "XE 54 Intelligence Solutions website (xe54intelligence.co.za)",
+  "main": "server.js",
+  "private": true,
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "start": "node --no-warnings server.js",
+    "dev": "node --no-warnings --watch server.js"
+  }
+}
